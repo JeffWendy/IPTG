@@ -10,3 +10,5 @@ datapreprocessing directory contains scripts that perform transformation between
 Implementation and training of baseline models are included in the baselines directory.
 
 Data generated or utilized in the experiments are put in the top directory or data directory. 
+
+We deleted the dataset to prevent copyright issues. Please refer https://github.com/csuvis/IndoorTrajectoryData for data.
